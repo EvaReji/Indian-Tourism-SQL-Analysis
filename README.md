@@ -40,6 +40,19 @@ Analyze tourism data across Indian states to identify patterns in tourist visits
 
 ---
 
+## 📸 Sample Outputs
+
+### Top States by Tourists
+![Top States](images/top_states.png)
+
+### Revenue by Purpose
+![Revenue](images/revenue_by_purpose.png)
+
+### Peak Tourism Month
+![Peak Month](images/peak_month.png)
+
+---
+
 ## 💡 Business Questions Answered
 
 * Which states generate the highest tourism revenue?
